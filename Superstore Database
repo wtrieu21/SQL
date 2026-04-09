@@ -53,3 +53,4 @@ WHERE category='Kitchen Supplies';
 SELECT price,item_name
 FROM superstore
 WHERE price>100;
+
